@@ -1,0 +1,9 @@
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa43-olaylaraOrtakKodYazma\sayfa43-olaylaraOrtakKodYazma\bin\Debug\sayfa43-olaylaraOrtakKodYazma.exe.config
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa43-olaylaraOrtakKodYazma\sayfa43-olaylaraOrtakKodYazma\bin\Debug\sayfa43-olaylaraOrtakKodYazma.exe
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa43-olaylaraOrtakKodYazma\sayfa43-olaylaraOrtakKodYazma\bin\Debug\sayfa43-olaylaraOrtakKodYazma.pdb
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa43-olaylaraOrtakKodYazma\sayfa43-olaylaraOrtakKodYazma\obj\Debug\sayfa43_olaylaraOrtakKodYazma.Form1.resources
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa43-olaylaraOrtakKodYazma\sayfa43-olaylaraOrtakKodYazma\obj\Debug\sayfa43_olaylaraOrtakKodYazma.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa43-olaylaraOrtakKodYazma\sayfa43-olaylaraOrtakKodYazma\obj\Debug\sayfa43-olaylaraOrtakKodYazma.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa43-olaylaraOrtakKodYazma\sayfa43-olaylaraOrtakKodYazma\obj\Debug\sayfa43-olaylaraOrtakKodYazma.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa43-olaylaraOrtakKodYazma\sayfa43-olaylaraOrtakKodYazma\obj\Debug\sayfa43-olaylaraOrtakKodYazma.exe
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa43-olaylaraOrtakKodYazma\sayfa43-olaylaraOrtakKodYazma\obj\Debug\sayfa43-olaylaraOrtakKodYazma.pdb

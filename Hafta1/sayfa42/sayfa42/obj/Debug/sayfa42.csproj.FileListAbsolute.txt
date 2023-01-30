@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa42\sayfa42\bin\Debug\sayfa42.exe.config
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa42\sayfa42\bin\Debug\sayfa42.exe
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa42\sayfa42\bin\Debug\sayfa42.pdb
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa42\sayfa42\obj\Debug\sayfa42.csprojAssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa42\sayfa42\obj\Debug\sayfa42.Form1.resources
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa42\sayfa42\obj\Debug\sayfa42.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa42\sayfa42\obj\Debug\sayfa42.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa42\sayfa42\obj\Debug\sayfa42.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa42\sayfa42\obj\Debug\sayfa42.exe
+C:\Users\NORA JDK\Desktop\Gorsel\sayfa42\sayfa42\obj\Debug\sayfa42.pdb
