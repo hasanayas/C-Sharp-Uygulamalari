@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\source\repos\INPUTBOX-Sayfa57\INPUTBOX-Sayfa57\bin\Debug\INPUTBOX-Sayfa57.exe.config
+C:\Users\NORA JDK\source\repos\INPUTBOX-Sayfa57\INPUTBOX-Sayfa57\bin\Debug\INPUTBOX-Sayfa57.exe
+C:\Users\NORA JDK\source\repos\INPUTBOX-Sayfa57\INPUTBOX-Sayfa57\bin\Debug\INPUTBOX-Sayfa57.pdb
+C:\Users\NORA JDK\source\repos\INPUTBOX-Sayfa57\INPUTBOX-Sayfa57\obj\Debug\INPUTBOX-Sayfa57.csprojAssemblyReference.cache
+C:\Users\NORA JDK\source\repos\INPUTBOX-Sayfa57\INPUTBOX-Sayfa57\obj\Debug\INPUTBOX_Sayfa57.Form1.resources
+C:\Users\NORA JDK\source\repos\INPUTBOX-Sayfa57\INPUTBOX-Sayfa57\obj\Debug\INPUTBOX_Sayfa57.Properties.Resources.resources
+C:\Users\NORA JDK\source\repos\INPUTBOX-Sayfa57\INPUTBOX-Sayfa57\obj\Debug\INPUTBOX-Sayfa57.csproj.GenerateResource.cache
+C:\Users\NORA JDK\source\repos\INPUTBOX-Sayfa57\INPUTBOX-Sayfa57\obj\Debug\INPUTBOX-Sayfa57.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\source\repos\INPUTBOX-Sayfa57\INPUTBOX-Sayfa57\obj\Debug\INPUTBOX-Sayfa57.exe
+C:\Users\NORA JDK\source\repos\INPUTBOX-Sayfa57\INPUTBOX-Sayfa57\obj\Debug\INPUTBOX-Sayfa57.pdb
