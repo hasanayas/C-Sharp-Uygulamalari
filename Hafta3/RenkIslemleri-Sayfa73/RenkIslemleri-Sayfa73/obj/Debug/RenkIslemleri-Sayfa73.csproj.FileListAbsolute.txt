@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\RenkIslemleri-Sayfa73\RenkIslemleri-Sayfa73\bin\Debug\RenkIslemleri-Sayfa73.exe.config
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\RenkIslemleri-Sayfa73\RenkIslemleri-Sayfa73\bin\Debug\RenkIslemleri-Sayfa73.exe
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\RenkIslemleri-Sayfa73\RenkIslemleri-Sayfa73\bin\Debug\RenkIslemleri-Sayfa73.pdb
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\RenkIslemleri-Sayfa73\RenkIslemleri-Sayfa73\obj\Debug\RenkIslemleri-Sayfa73.csprojAssemblyReference.cache
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\RenkIslemleri-Sayfa73\RenkIslemleri-Sayfa73\obj\Debug\RenkIslemleri_Sayfa73.Form1.resources
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\RenkIslemleri-Sayfa73\RenkIslemleri-Sayfa73\obj\Debug\RenkIslemleri_Sayfa73.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\RenkIslemleri-Sayfa73\RenkIslemleri-Sayfa73\obj\Debug\RenkIslemleri-Sayfa73.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\RenkIslemleri-Sayfa73\RenkIslemleri-Sayfa73\obj\Debug\RenkIslemleri-Sayfa73.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\RenkIslemleri-Sayfa73\RenkIslemleri-Sayfa73\obj\Debug\RenkIslemleri-Sayfa73.exe
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\RenkIslemleri-Sayfa73\RenkIslemleri-Sayfa73\obj\Debug\RenkIslemleri-Sayfa73.pdb

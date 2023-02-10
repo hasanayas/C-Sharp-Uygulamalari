@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\KontrollerArasıGecis\KontrollerArasıGecis\bin\Debug\KontrollerArasıGecis.exe.config
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\KontrollerArasıGecis\KontrollerArasıGecis\bin\Debug\KontrollerArasıGecis.exe
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\KontrollerArasıGecis\KontrollerArasıGecis\bin\Debug\KontrollerArasıGecis.pdb
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\KontrollerArasıGecis\KontrollerArasıGecis\obj\Debug\KontrollerArasıGecis.csprojAssemblyReference.cache
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\KontrollerArasıGecis\KontrollerArasıGecis\obj\Debug\KontrollerArasıGecis.Form1.resources
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\KontrollerArasıGecis\KontrollerArasıGecis\obj\Debug\KontrollerArasıGecis.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\KontrollerArasıGecis\KontrollerArasıGecis\obj\Debug\KontrollerArasıGecis.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\KontrollerArasıGecis\KontrollerArasıGecis\obj\Debug\KontrollerArasıGecis.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\KontrollerArasıGecis\KontrollerArasıGecis\obj\Debug\KontrollerArasıGecis.exe
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\KontrollerArasıGecis\KontrollerArasıGecis\obj\Debug\KontrollerArasıGecis.pdb
