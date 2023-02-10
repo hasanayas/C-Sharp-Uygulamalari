@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\FormlarlaCalisma-Sayfa86\FormlarlaCalisma-Sayfa86\bin\Debug\FormlarlaCalisma-Sayfa86.exe.config
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\FormlarlaCalisma-Sayfa86\FormlarlaCalisma-Sayfa86\bin\Debug\FormlarlaCalisma-Sayfa86.exe
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\FormlarlaCalisma-Sayfa86\FormlarlaCalisma-Sayfa86\bin\Debug\FormlarlaCalisma-Sayfa86.pdb
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\FormlarlaCalisma-Sayfa86\FormlarlaCalisma-Sayfa86\obj\Debug\FormlarlaCalisma-Sayfa86.csprojAssemblyReference.cache
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\FormlarlaCalisma-Sayfa86\FormlarlaCalisma-Sayfa86\obj\Debug\FormlarlaCalisma_Sayfa86.Form1.resources
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\FormlarlaCalisma-Sayfa86\FormlarlaCalisma-Sayfa86\obj\Debug\FormlarlaCalisma_Sayfa86.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\FormlarlaCalisma-Sayfa86\FormlarlaCalisma-Sayfa86\obj\Debug\FormlarlaCalisma-Sayfa86.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\FormlarlaCalisma-Sayfa86\FormlarlaCalisma-Sayfa86\obj\Debug\FormlarlaCalisma-Sayfa86.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\FormlarlaCalisma-Sayfa86\FormlarlaCalisma-Sayfa86\obj\Debug\FormlarlaCalisma-Sayfa86.exe
+C:\Users\NORA JDK\Desktop\211001309-Hasan Ayas\FormlarlaCalisma-Sayfa86\FormlarlaCalisma-Sayfa86\obj\Debug\FormlarlaCalisma-Sayfa86.pdb
