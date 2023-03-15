@@ -1,0 +1,11 @@
+C:\Users\NORA JDK\Desktop\Hafta6\FormlaraSekilVerme-Sayfa95-97\FormlaraSekilVerme-Sayfa95-97\bin\Debug\FormlaraSekilVerme-Sayfa95-97.exe.config
+C:\Users\NORA JDK\Desktop\Hafta6\FormlaraSekilVerme-Sayfa95-97\FormlaraSekilVerme-Sayfa95-97\bin\Debug\FormlaraSekilVerme-Sayfa95-97.exe
+C:\Users\NORA JDK\Desktop\Hafta6\FormlaraSekilVerme-Sayfa95-97\FormlaraSekilVerme-Sayfa95-97\bin\Debug\FormlaraSekilVerme-Sayfa95-97.pdb
+C:\Users\NORA JDK\Desktop\Hafta6\FormlaraSekilVerme-Sayfa95-97\FormlaraSekilVerme-Sayfa95-97\obj\Debug\FormlaraSekilVerme-Sayfa95-97.csprojAssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Hafta6\FormlaraSekilVerme-Sayfa95-97\FormlaraSekilVerme-Sayfa95-97\obj\Debug\FormlaraSekilVerme_Sayfa95_97.Form1.resources
+C:\Users\NORA JDK\Desktop\Hafta6\FormlaraSekilVerme-Sayfa95-97\FormlaraSekilVerme-Sayfa95-97\obj\Debug\FormlaraSekilVerme_Sayfa95_97.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Hafta6\FormlaraSekilVerme-Sayfa95-97\FormlaraSekilVerme-Sayfa95-97\obj\Debug\FormlaraSekilVerme-Sayfa95-97.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Hafta6\FormlaraSekilVerme-Sayfa95-97\FormlaraSekilVerme-Sayfa95-97\obj\Debug\FormlaraSekilVerme-Sayfa95-97.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Hafta6\FormlaraSekilVerme-Sayfa95-97\FormlaraSekilVerme-Sayfa95-97\obj\Debug\FormlaraSekilVerme-Sayfa95-97.exe
+C:\Users\NORA JDK\Desktop\Hafta6\FormlaraSekilVerme-Sayfa95-97\FormlaraSekilVerme-Sayfa95-97\obj\Debug\FormlaraSekilVerme-Sayfa95-97.pdb
+C:\Users\NORA JDK\Desktop\Hafta6\FormlaraSekilVerme-Sayfa95-97\FormlaraSekilVerme-Sayfa95-97\obj\Debug\FormlaraSekilVerme_Sayfa95_97.Form_Paint.resources

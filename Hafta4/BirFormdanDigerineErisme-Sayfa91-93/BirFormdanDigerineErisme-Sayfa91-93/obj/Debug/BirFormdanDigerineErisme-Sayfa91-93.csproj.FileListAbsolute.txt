@@ -1,0 +1,11 @@
+C:\Users\NORA JDK\Desktop\Hafta6\BirFormdanDigerineErisme-Sayfa91-93\BirFormdanDigerineErisme-Sayfa91-93\bin\Debug\BirFormdanDigerineErisme-Sayfa91-93.exe.config
+C:\Users\NORA JDK\Desktop\Hafta6\BirFormdanDigerineErisme-Sayfa91-93\BirFormdanDigerineErisme-Sayfa91-93\bin\Debug\BirFormdanDigerineErisme-Sayfa91-93.exe
+C:\Users\NORA JDK\Desktop\Hafta6\BirFormdanDigerineErisme-Sayfa91-93\BirFormdanDigerineErisme-Sayfa91-93\bin\Debug\BirFormdanDigerineErisme-Sayfa91-93.pdb
+C:\Users\NORA JDK\Desktop\Hafta6\BirFormdanDigerineErisme-Sayfa91-93\BirFormdanDigerineErisme-Sayfa91-93\obj\Debug\BirFormdanDigerineErisme-Sayfa91-93.csprojAssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Hafta6\BirFormdanDigerineErisme-Sayfa91-93\BirFormdanDigerineErisme-Sayfa91-93\obj\Debug\BirFormdanDigerineErisme_Sayfa91_93.Form1.resources
+C:\Users\NORA JDK\Desktop\Hafta6\BirFormdanDigerineErisme-Sayfa91-93\BirFormdanDigerineErisme-Sayfa91-93\obj\Debug\BirFormdanDigerineErisme_Sayfa91_93.Form2.resources
+C:\Users\NORA JDK\Desktop\Hafta6\BirFormdanDigerineErisme-Sayfa91-93\BirFormdanDigerineErisme-Sayfa91-93\obj\Debug\BirFormdanDigerineErisme_Sayfa91_93.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Hafta6\BirFormdanDigerineErisme-Sayfa91-93\BirFormdanDigerineErisme-Sayfa91-93\obj\Debug\BirFormdanDigerineErisme-Sayfa91-93.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Hafta6\BirFormdanDigerineErisme-Sayfa91-93\BirFormdanDigerineErisme-Sayfa91-93\obj\Debug\BirFormdanDigerineErisme-Sayfa91-93.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Hafta6\BirFormdanDigerineErisme-Sayfa91-93\BirFormdanDigerineErisme-Sayfa91-93\obj\Debug\BirFormdanDigerineErisme-Sayfa91-93.exe
+C:\Users\NORA JDK\Desktop\Hafta6\BirFormdanDigerineErisme-Sayfa91-93\BirFormdanDigerineErisme-Sayfa91-93\obj\Debug\BirFormdanDigerineErisme-Sayfa91-93.pdb

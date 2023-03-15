@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdenFazlaFormlaCalisma-Sayfa88-90", "BirdenFazlaFormlaCalisma-Sayfa88-90\BirdenFazlaFormlaCalisma-Sayfa88-90.csproj", "{B017DF5C-8014-45F3-8419-33F3EA270BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B017DF5C-8014-45F3-8419-33F3EA270BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B017DF5C-8014-45F3-8419-33F3EA270BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B017DF5C-8014-45F3-8419-33F3EA270BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B017DF5C-8014-45F3-8419-33F3EA270BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E416B9BE-48C5-4F80-B727-43171F3B7FB5}
+	EndGlobalSection
+EndGlobal

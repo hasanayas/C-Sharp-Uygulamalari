@@ -1,0 +1,11 @@
+C:\Users\NORA JDK\Desktop\Hafta6\AcilisFormuOlusturma-Sayfa93-94\AcilisFormuOlusturma-Sayfa93-94\obj\Debug\AcilisFormuOlusturma-Sayfa93-94.csprojAssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Hafta6\AcilisFormuOlusturma-Sayfa93-94\AcilisFormuOlusturma-Sayfa93-94\obj\Debug\AcilisFormuOlusturma_Sayfa93_94.Form1.resources
+C:\Users\NORA JDK\Desktop\Hafta6\AcilisFormuOlusturma-Sayfa93-94\AcilisFormuOlusturma-Sayfa93-94\obj\Debug\AcilisFormuOlusturma_Sayfa93_94.Form2.resources
+C:\Users\NORA JDK\Desktop\Hafta6\AcilisFormuOlusturma-Sayfa93-94\AcilisFormuOlusturma-Sayfa93-94\obj\Debug\AcilisFormuOlusturma_Sayfa93_94.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Hafta6\AcilisFormuOlusturma-Sayfa93-94\AcilisFormuOlusturma-Sayfa93-94\obj\Debug\AcilisFormuOlusturma-Sayfa93-94.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Hafta6\AcilisFormuOlusturma-Sayfa93-94\AcilisFormuOlusturma-Sayfa93-94\obj\Debug\AcilisFormuOlusturma-Sayfa93-94.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Hafta6\AcilisFormuOlusturma-Sayfa93-94\AcilisFormuOlusturma-Sayfa93-94\bin\Debug\AcilisFormuOlusturma-Sayfa93-94.exe.config
+C:\Users\NORA JDK\Desktop\Hafta6\AcilisFormuOlusturma-Sayfa93-94\AcilisFormuOlusturma-Sayfa93-94\bin\Debug\AcilisFormuOlusturma-Sayfa93-94.exe
+C:\Users\NORA JDK\Desktop\Hafta6\AcilisFormuOlusturma-Sayfa93-94\AcilisFormuOlusturma-Sayfa93-94\bin\Debug\AcilisFormuOlusturma-Sayfa93-94.pdb
+C:\Users\NORA JDK\Desktop\Hafta6\AcilisFormuOlusturma-Sayfa93-94\AcilisFormuOlusturma-Sayfa93-94\obj\Debug\AcilisFormuOlusturma-Sayfa93-94.exe
+C:\Users\NORA JDK\Desktop\Hafta6\AcilisFormuOlusturma-Sayfa93-94\AcilisFormuOlusturma-Sayfa93-94\obj\Debug\AcilisFormuOlusturma-Sayfa93-94.pdb
