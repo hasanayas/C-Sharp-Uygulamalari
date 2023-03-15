@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\source\repos\Tooltip-112-113\Tooltip-112-113\bin\Debug\Tooltip-112-113.exe.config
+C:\Users\NORA JDK\source\repos\Tooltip-112-113\Tooltip-112-113\bin\Debug\Tooltip-112-113.exe
+C:\Users\NORA JDK\source\repos\Tooltip-112-113\Tooltip-112-113\bin\Debug\Tooltip-112-113.pdb
+C:\Users\NORA JDK\source\repos\Tooltip-112-113\Tooltip-112-113\obj\Debug\Tooltip-112-113.csprojAssemblyReference.cache
+C:\Users\NORA JDK\source\repos\Tooltip-112-113\Tooltip-112-113\obj\Debug\Tooltip_112_113.Form1.resources
+C:\Users\NORA JDK\source\repos\Tooltip-112-113\Tooltip-112-113\obj\Debug\Tooltip_112_113.Properties.Resources.resources
+C:\Users\NORA JDK\source\repos\Tooltip-112-113\Tooltip-112-113\obj\Debug\Tooltip-112-113.csproj.GenerateResource.cache
+C:\Users\NORA JDK\source\repos\Tooltip-112-113\Tooltip-112-113\obj\Debug\Tooltip-112-113.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\source\repos\Tooltip-112-113\Tooltip-112-113\obj\Debug\Tooltip-112-113.exe
+C:\Users\NORA JDK\source\repos\Tooltip-112-113\Tooltip-112-113\obj\Debug\Tooltip-112-113.pdb

@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\ListboxItemsClear-ItemsIndexOf-Sayfa123\ListboxItemsClear-ItemsIndexOf-Sayfa123\obj\Debug\ListboxItemsClear-ItemsIndexOf-Sayfa123.csprojAssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\ListboxItemsClear-ItemsIndexOf-Sayfa123\ListboxItemsClear-ItemsIndexOf-Sayfa123\obj\Debug\ListboxItemsClear_ItemsIndexOf_Sayfa123.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\ListboxItemsClear-ItemsIndexOf-Sayfa123\ListboxItemsClear-ItemsIndexOf-Sayfa123\obj\Debug\ListboxItemsClear_ItemsIndexOf_Sayfa123.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\ListboxItemsClear-ItemsIndexOf-Sayfa123\ListboxItemsClear-ItemsIndexOf-Sayfa123\obj\Debug\ListboxItemsClear-ItemsIndexOf-Sayfa123.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\ListboxItemsClear-ItemsIndexOf-Sayfa123\ListboxItemsClear-ItemsIndexOf-Sayfa123\obj\Debug\ListboxItemsClear-ItemsIndexOf-Sayfa123.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\ListboxItemsClear-ItemsIndexOf-Sayfa123\ListboxItemsClear-ItemsIndexOf-Sayfa123\bin\Debug\ListboxItemsClear-ItemsIndexOf-Sayfa123.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\ListboxItemsClear-ItemsIndexOf-Sayfa123\ListboxItemsClear-ItemsIndexOf-Sayfa123\bin\Debug\ListboxItemsClear-ItemsIndexOf-Sayfa123.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\ListboxItemsClear-ItemsIndexOf-Sayfa123\ListboxItemsClear-ItemsIndexOf-Sayfa123\bin\Debug\ListboxItemsClear-ItemsIndexOf-Sayfa123.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\ListboxItemsClear-ItemsIndexOf-Sayfa123\ListboxItemsClear-ItemsIndexOf-Sayfa123\obj\Debug\ListboxItemsClear-ItemsIndexOf-Sayfa123.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\ListboxItemsClear-ItemsIndexOf-Sayfa123\ListboxItemsClear-ItemsIndexOf-Sayfa123\obj\Debug\ListboxItemsClear-ItemsIndexOf-Sayfa123.pdb

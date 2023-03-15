@@ -1,0 +1,11 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\DialogResult-Sayfa112\DialogResult-Sayfa112\bin\Debug\DialogResult-Sayfa112.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\DialogResult-Sayfa112\DialogResult-Sayfa112\bin\Debug\DialogResult-Sayfa112.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\DialogResult-Sayfa112\DialogResult-Sayfa112\bin\Debug\DialogResult-Sayfa112.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\DialogResult-Sayfa112\DialogResult-Sayfa112\obj\Debug\DialogResult-Sayfa112.csprojAssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\DialogResult-Sayfa112\DialogResult-Sayfa112\obj\Debug\DialogResult_Sayfa112.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\DialogResult-Sayfa112\DialogResult-Sayfa112\obj\Debug\DialogResult_Sayfa112.Form2.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\DialogResult-Sayfa112\DialogResult-Sayfa112\obj\Debug\DialogResult_Sayfa112.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\DialogResult-Sayfa112\DialogResult-Sayfa112\obj\Debug\DialogResult-Sayfa112.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\DialogResult-Sayfa112\DialogResult-Sayfa112\obj\Debug\DialogResult-Sayfa112.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\DialogResult-Sayfa112\DialogResult-Sayfa112\obj\Debug\DialogResult-Sayfa112.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta7\DialogResult-Sayfa112\DialogResult-Sayfa112\obj\Debug\DialogResult-Sayfa112.pdb
