@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\CheckedListBox-Sayfa140-141\CheckedListBox-Sayfa140-141\obj\Debug\CheckedListBox-Sayfa140-141.csprojAssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\CheckedListBox-Sayfa140-141\CheckedListBox-Sayfa140-141\obj\Debug\CheckedListBox_Sayfa140_141.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\CheckedListBox-Sayfa140-141\CheckedListBox-Sayfa140-141\obj\Debug\CheckedListBox_Sayfa140_141.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\CheckedListBox-Sayfa140-141\CheckedListBox-Sayfa140-141\obj\Debug\CheckedListBox-Sayfa140-141.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\CheckedListBox-Sayfa140-141\CheckedListBox-Sayfa140-141\obj\Debug\CheckedListBox-Sayfa140-141.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\CheckedListBox-Sayfa140-141\CheckedListBox-Sayfa140-141\bin\Debug\CheckedListBox-Sayfa140-141.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\CheckedListBox-Sayfa140-141\CheckedListBox-Sayfa140-141\bin\Debug\CheckedListBox-Sayfa140-141.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\CheckedListBox-Sayfa140-141\CheckedListBox-Sayfa140-141\bin\Debug\CheckedListBox-Sayfa140-141.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\CheckedListBox-Sayfa140-141\CheckedListBox-Sayfa140-141\obj\Debug\CheckedListBox-Sayfa140-141.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\CheckedListBox-Sayfa140-141\CheckedListBox-Sayfa140-141\obj\Debug\CheckedListBox-Sayfa140-141.pdb

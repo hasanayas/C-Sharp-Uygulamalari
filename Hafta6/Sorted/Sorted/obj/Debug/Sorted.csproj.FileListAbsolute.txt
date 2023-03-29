@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\Sorted\Sorted\bin\Debug\Sorted.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\Sorted\Sorted\bin\Debug\Sorted.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\Sorted\Sorted\bin\Debug\Sorted.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\Sorted\Sorted\obj\Debug\Sorted.csprojAssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\Sorted\Sorted\obj\Debug\Sorted.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\Sorted\Sorted\obj\Debug\Sorted.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\Sorted\Sorted\obj\Debug\Sorted.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\Sorted\Sorted\obj\Debug\Sorted.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\Sorted\Sorted\obj\Debug\Sorted.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\Sorted\Sorted\obj\Debug\Sorted.pdb

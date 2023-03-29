@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\findStringExact-Sayfa129\findStringExact-Sayfa129\bin\Debug\findStringExact-Sayfa129.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\findStringExact-Sayfa129\findStringExact-Sayfa129\bin\Debug\findStringExact-Sayfa129.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\findStringExact-Sayfa129\findStringExact-Sayfa129\bin\Debug\findStringExact-Sayfa129.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\findStringExact-Sayfa129\findStringExact-Sayfa129\obj\Debug\findStringExact-Sayfa129.csprojAssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\findStringExact-Sayfa129\findStringExact-Sayfa129\obj\Debug\findStringExact_Sayfa129.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\findStringExact-Sayfa129\findStringExact-Sayfa129\obj\Debug\findStringExact_Sayfa129.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\findStringExact-Sayfa129\findStringExact-Sayfa129\obj\Debug\findStringExact-Sayfa129.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\findStringExact-Sayfa129\findStringExact-Sayfa129\obj\Debug\findStringExact-Sayfa129.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\findStringExact-Sayfa129\findStringExact-Sayfa129\obj\Debug\findStringExact-Sayfa129.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\findStringExact-Sayfa129\findStringExact-Sayfa129\obj\Debug\findStringExact-Sayfa129.pdb

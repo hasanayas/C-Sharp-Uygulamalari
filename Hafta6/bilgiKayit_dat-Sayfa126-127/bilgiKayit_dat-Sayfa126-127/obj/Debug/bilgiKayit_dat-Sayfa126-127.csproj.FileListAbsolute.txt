@@ -1,0 +1,9 @@
+C:\Users\NORA JDK\source\repos\bilgiKayit_dat-Sayfa126-127\bilgiKayit_dat-Sayfa126-127\bin\Debug\bilgiKayit_dat-Sayfa126-127.exe.config
+C:\Users\NORA JDK\source\repos\bilgiKayit_dat-Sayfa126-127\bilgiKayit_dat-Sayfa126-127\bin\Debug\bilgiKayit_dat-Sayfa126-127.exe
+C:\Users\NORA JDK\source\repos\bilgiKayit_dat-Sayfa126-127\bilgiKayit_dat-Sayfa126-127\bin\Debug\bilgiKayit_dat-Sayfa126-127.pdb
+C:\Users\NORA JDK\source\repos\bilgiKayit_dat-Sayfa126-127\bilgiKayit_dat-Sayfa126-127\obj\Debug\bilgiKayit_dat_Sayfa126_127.Form1.resources
+C:\Users\NORA JDK\source\repos\bilgiKayit_dat-Sayfa126-127\bilgiKayit_dat-Sayfa126-127\obj\Debug\bilgiKayit_dat_Sayfa126_127.Properties.Resources.resources
+C:\Users\NORA JDK\source\repos\bilgiKayit_dat-Sayfa126-127\bilgiKayit_dat-Sayfa126-127\obj\Debug\bilgiKayit_dat-Sayfa126-127.csproj.GenerateResource.cache
+C:\Users\NORA JDK\source\repos\bilgiKayit_dat-Sayfa126-127\bilgiKayit_dat-Sayfa126-127\obj\Debug\bilgiKayit_dat-Sayfa126-127.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\source\repos\bilgiKayit_dat-Sayfa126-127\bilgiKayit_dat-Sayfa126-127\obj\Debug\bilgiKayit_dat-Sayfa126-127.exe
+C:\Users\NORA JDK\source\repos\bilgiKayit_dat-Sayfa126-127\bilgiKayit_dat-Sayfa126-127\obj\Debug\bilgiKayit_dat-Sayfa126-127.pdb

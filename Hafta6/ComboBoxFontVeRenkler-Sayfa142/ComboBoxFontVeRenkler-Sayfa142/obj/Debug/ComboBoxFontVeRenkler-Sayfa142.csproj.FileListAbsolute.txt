@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\ComboBoxFontVeRenkler-Sayfa142\ComboBoxFontVeRenkler-Sayfa142\bin\Debug\ComboBoxFontVeRenkler-Sayfa142.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\ComboBoxFontVeRenkler-Sayfa142\ComboBoxFontVeRenkler-Sayfa142\bin\Debug\ComboBoxFontVeRenkler-Sayfa142.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\ComboBoxFontVeRenkler-Sayfa142\ComboBoxFontVeRenkler-Sayfa142\bin\Debug\ComboBoxFontVeRenkler-Sayfa142.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\ComboBoxFontVeRenkler-Sayfa142\ComboBoxFontVeRenkler-Sayfa142\obj\Debug\ComboBoxFontVeRenkler_Sayfa142.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\ComboBoxFontVeRenkler-Sayfa142\ComboBoxFontVeRenkler-Sayfa142\obj\Debug\ComboBoxFontVeRenkler_Sayfa142.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\ComboBoxFontVeRenkler-Sayfa142\ComboBoxFontVeRenkler-Sayfa142\obj\Debug\ComboBoxFontVeRenkler-Sayfa142.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\ComboBoxFontVeRenkler-Sayfa142\ComboBoxFontVeRenkler-Sayfa142\obj\Debug\ComboBoxFontVeRenkler-Sayfa142.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\ComboBoxFontVeRenkler-Sayfa142\ComboBoxFontVeRenkler-Sayfa142\obj\Debug\ComboBoxFontVeRenkler-Sayfa142.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\ComboBoxFontVeRenkler-Sayfa142\ComboBoxFontVeRenkler-Sayfa142\obj\Debug\ComboBoxFontVeRenkler-Sayfa142.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta8\ComboBoxFontVeRenkler-Sayfa142\ComboBoxFontVeRenkler-Sayfa142\obj\Debug\ComboBoxFontVeRenkler-Sayfa142.csproj.AssemblyReference.cache
