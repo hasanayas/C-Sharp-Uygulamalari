@@ -1,0 +1,16 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\obj\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\obj\Debug\netcoreapp3.1\comboboxArkaPlanRenk_Sayfa143_144.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\obj\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\obj\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\obj\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.AssemblyInfoInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\obj\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.AssemblyInfo.cs
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\obj\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\bin\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\bin\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.deps.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\bin\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.runtimeconfig.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\bin\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.runtimeconfig.dev.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\bin\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\bin\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\obj\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\obj\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboboxArkaPlanRenk-Sayfa143-144\comboboxArkaPlanRenk-Sayfa143-144\obj\Debug\netcoreapp3.1\comboboxArkaPlanRenk-Sayfa143-144.genruntimeconfig.cache

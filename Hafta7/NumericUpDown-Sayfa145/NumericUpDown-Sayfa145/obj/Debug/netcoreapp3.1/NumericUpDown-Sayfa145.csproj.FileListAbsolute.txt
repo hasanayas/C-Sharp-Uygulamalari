@@ -1,0 +1,16 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\bin\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\bin\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.deps.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\bin\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.runtimeconfig.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\bin\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.runtimeconfig.dev.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\bin\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\bin\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\obj\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\obj\Debug\netcoreapp3.1\NumericUpDown_Sayfa145.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\obj\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\obj\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\obj\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.AssemblyInfoInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\obj\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.AssemblyInfo.cs
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\obj\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\obj\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\obj\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\NumericUpDown-Sayfa145\NumericUpDown-Sayfa145\obj\Debug\netcoreapp3.1\NumericUpDown-Sayfa145.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\bin\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\bin\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.deps.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\bin\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.runtimeconfig.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\bin\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.runtimeconfig.dev.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\bin\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\bin\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\obj\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\obj\Debug\netcoreapp3.1\ProgressBar_Sayfa147_148.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\obj\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\obj\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\obj\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.AssemblyInfoInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\obj\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.AssemblyInfo.cs
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\obj\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\obj\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\obj\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ProgressBar-Sayfa147-148\ProgressBar-Sayfa147-148\obj\Debug\netcoreapp3.1\ProgressBar-Sayfa147-148.genruntimeconfig.cache

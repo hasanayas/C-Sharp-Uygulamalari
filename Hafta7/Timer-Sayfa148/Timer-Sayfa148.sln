@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer-Sayfa148", "Timer-Sayfa148\Timer-Sayfa148.csproj", "{1DF9972C-5FEB-4050-92B3-4CFE1341237A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DF9972C-5FEB-4050-92B3-4CFE1341237A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF9972C-5FEB-4050-92B3-4CFE1341237A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF9972C-5FEB-4050-92B3-4CFE1341237A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF9972C-5FEB-4050-92B3-4CFE1341237A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9E5B8CF-DCDF-44A0-BC8E-0A047E57E719}
+	EndGlobalSection
+EndGlobal

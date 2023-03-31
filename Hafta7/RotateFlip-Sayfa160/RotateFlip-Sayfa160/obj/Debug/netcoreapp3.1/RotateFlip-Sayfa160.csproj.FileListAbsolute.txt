@@ -1,0 +1,17 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\bin\Debug\netcoreapp3.1\RotateFlip-Sayfa160.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\bin\Debug\netcoreapp3.1\RotateFlip-Sayfa160.deps.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\bin\Debug\netcoreapp3.1\RotateFlip-Sayfa160.runtimeconfig.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\bin\Debug\netcoreapp3.1\RotateFlip-Sayfa160.runtimeconfig.dev.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\bin\Debug\netcoreapp3.1\RotateFlip-Sayfa160.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\bin\Debug\netcoreapp3.1\RotateFlip-Sayfa160.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\obj\Debug\netcoreapp3.1\RotateFlip-Sayfa160.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\obj\Debug\netcoreapp3.1\RotateFlip_Sayfa160.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\obj\Debug\netcoreapp3.1\RotateFlip_Sayfa160.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\obj\Debug\netcoreapp3.1\RotateFlip-Sayfa160.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\obj\Debug\netcoreapp3.1\RotateFlip-Sayfa160.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\obj\Debug\netcoreapp3.1\RotateFlip-Sayfa160.AssemblyInfoInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\obj\Debug\netcoreapp3.1\RotateFlip-Sayfa160.AssemblyInfo.cs
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\obj\Debug\netcoreapp3.1\RotateFlip-Sayfa160.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\obj\Debug\netcoreapp3.1\RotateFlip-Sayfa160.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\obj\Debug\netcoreapp3.1\RotateFlip-Sayfa160.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\RotateFlip-Sayfa160\RotateFlip-Sayfa160\obj\Debug\netcoreapp3.1\RotateFlip-Sayfa160.genruntimeconfig.cache

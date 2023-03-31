@@ -1,0 +1,16 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\bin\Debug\netcoreapp3.1\DomainUpDown.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\bin\Debug\netcoreapp3.1\DomainUpDown.deps.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\bin\Debug\netcoreapp3.1\DomainUpDown.runtimeconfig.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\bin\Debug\netcoreapp3.1\DomainUpDown.runtimeconfig.dev.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\bin\Debug\netcoreapp3.1\DomainUpDown.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\bin\Debug\netcoreapp3.1\DomainUpDown.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\obj\Debug\netcoreapp3.1\DomainUpDown.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\obj\Debug\netcoreapp3.1\DomainUpDown.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\obj\Debug\netcoreapp3.1\DomainUpDown.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\obj\Debug\netcoreapp3.1\DomainUpDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\obj\Debug\netcoreapp3.1\DomainUpDown.AssemblyInfoInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\obj\Debug\netcoreapp3.1\DomainUpDown.AssemblyInfo.cs
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\obj\Debug\netcoreapp3.1\DomainUpDown.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\obj\Debug\netcoreapp3.1\DomainUpDown.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\obj\Debug\netcoreapp3.1\DomainUpDown.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\DomainUpDown\DomainUpDown\obj\Debug\netcoreapp3.1\DomainUpDown.genruntimeconfig.cache

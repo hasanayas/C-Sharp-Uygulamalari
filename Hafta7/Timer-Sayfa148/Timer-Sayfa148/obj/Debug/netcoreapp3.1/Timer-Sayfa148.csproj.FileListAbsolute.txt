@@ -1,0 +1,16 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\bin\Debug\netcoreapp3.1\Timer-Sayfa148.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\bin\Debug\netcoreapp3.1\Timer-Sayfa148.deps.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\bin\Debug\netcoreapp3.1\Timer-Sayfa148.runtimeconfig.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\bin\Debug\netcoreapp3.1\Timer-Sayfa148.runtimeconfig.dev.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\bin\Debug\netcoreapp3.1\Timer-Sayfa148.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\bin\Debug\netcoreapp3.1\Timer-Sayfa148.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\obj\Debug\netcoreapp3.1\Timer-Sayfa148.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\obj\Debug\netcoreapp3.1\Timer_Sayfa148.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\obj\Debug\netcoreapp3.1\Timer-Sayfa148.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\obj\Debug\netcoreapp3.1\Timer-Sayfa148.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\obj\Debug\netcoreapp3.1\Timer-Sayfa148.AssemblyInfoInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\obj\Debug\netcoreapp3.1\Timer-Sayfa148.AssemblyInfo.cs
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\obj\Debug\netcoreapp3.1\Timer-Sayfa148.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\obj\Debug\netcoreapp3.1\Timer-Sayfa148.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\obj\Debug\netcoreapp3.1\Timer-Sayfa148.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\Timer-Sayfa148\Timer-Sayfa148\obj\Debug\netcoreapp3.1\Timer-Sayfa148.genruntimeconfig.cache

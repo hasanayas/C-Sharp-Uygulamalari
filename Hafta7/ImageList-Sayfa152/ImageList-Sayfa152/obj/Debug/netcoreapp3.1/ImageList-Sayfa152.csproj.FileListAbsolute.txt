@@ -1,0 +1,16 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\bin\Debug\netcoreapp3.1\ImageList-Sayfa152.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\bin\Debug\netcoreapp3.1\ImageList-Sayfa152.deps.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\bin\Debug\netcoreapp3.1\ImageList-Sayfa152.runtimeconfig.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\bin\Debug\netcoreapp3.1\ImageList-Sayfa152.runtimeconfig.dev.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\bin\Debug\netcoreapp3.1\ImageList-Sayfa152.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\bin\Debug\netcoreapp3.1\ImageList-Sayfa152.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\obj\Debug\netcoreapp3.1\ImageList-Sayfa152.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\obj\Debug\netcoreapp3.1\ImageList_Sayfa152.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\obj\Debug\netcoreapp3.1\ImageList-Sayfa152.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\obj\Debug\netcoreapp3.1\ImageList-Sayfa152.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\obj\Debug\netcoreapp3.1\ImageList-Sayfa152.AssemblyInfoInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\obj\Debug\netcoreapp3.1\ImageList-Sayfa152.AssemblyInfo.cs
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\obj\Debug\netcoreapp3.1\ImageList-Sayfa152.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\obj\Debug\netcoreapp3.1\ImageList-Sayfa152.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\obj\Debug\netcoreapp3.1\ImageList-Sayfa152.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\ImageList-Sayfa152\ImageList-Sayfa152\obj\Debug\netcoreapp3.1\ImageList-Sayfa152.genruntimeconfig.cache

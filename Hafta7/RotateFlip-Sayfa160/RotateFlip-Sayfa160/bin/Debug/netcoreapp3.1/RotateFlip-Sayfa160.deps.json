@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RotateFlip-Sayfa160/1.0.0": {
+        "runtime": {
+          "RotateFlip-Sayfa160.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RotateFlip-Sayfa160/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\bin\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\bin\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.deps.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\bin\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.runtimeconfig.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\bin\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.runtimeconfig.dev.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\bin\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\bin\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\obj\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\obj\Debug\netcoreapp3.1\TrackBarvePictureBox__Sayfa147.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\obj\Debug\netcoreapp3.1\TrackBarvePictureBox__Sayfa147.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\obj\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\obj\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\obj\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.AssemblyInfoInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\obj\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.AssemblyInfo.cs
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\obj\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\obj\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\obj\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\TrackBarvePictureBox--Sayfa147\TrackBarvePictureBox--Sayfa147\obj\Debug\netcoreapp3.1\TrackBarvePictureBox--Sayfa147.genruntimeconfig.cache

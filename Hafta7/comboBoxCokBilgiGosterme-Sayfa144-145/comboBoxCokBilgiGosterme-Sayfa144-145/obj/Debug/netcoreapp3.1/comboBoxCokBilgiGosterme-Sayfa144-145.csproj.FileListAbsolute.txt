@@ -1,0 +1,16 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\bin\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\bin\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.deps.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\bin\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.runtimeconfig.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\bin\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.runtimeconfig.dev.json
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\bin\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\bin\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\obj\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\obj\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme_Sayfa144_145.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\obj\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\obj\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\obj\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.AssemblyInfoInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\obj\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.AssemblyInfo.cs
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\obj\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\obj\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.dll
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\obj\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta9\comboBoxCokBilgiGosterme-Sayfa144-145\comboBoxCokBilgiGosterme-Sayfa144-145\obj\Debug\netcoreapp3.1\comboBoxCokBilgiGosterme-Sayfa144-145.genruntimeconfig.cache
