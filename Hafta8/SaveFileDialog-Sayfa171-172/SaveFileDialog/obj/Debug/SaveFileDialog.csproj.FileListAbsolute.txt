@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\SaveFileDialog\SaveFileDialog\bin\Debug\SaveFileDialog.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\SaveFileDialog\SaveFileDialog\bin\Debug\SaveFileDialog.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\SaveFileDialog\SaveFileDialog\bin\Debug\SaveFileDialog.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\SaveFileDialog\SaveFileDialog\obj\Debug\SaveFileDialog.pdb

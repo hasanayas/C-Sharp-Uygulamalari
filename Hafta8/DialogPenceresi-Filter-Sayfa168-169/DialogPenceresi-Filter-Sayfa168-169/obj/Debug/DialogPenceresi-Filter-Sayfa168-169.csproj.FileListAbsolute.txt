@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\DialogPenceresi-Filter-Sayfa168-169\DialogPenceresi-Filter-Sayfa168-169\obj\Debug\DialogPenceresi-Filter-Sayfa168-169.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\DialogPenceresi-Filter-Sayfa168-169\DialogPenceresi-Filter-Sayfa168-169\obj\Debug\DialogPenceresi_Filter_Sayfa168_169.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\DialogPenceresi-Filter-Sayfa168-169\DialogPenceresi-Filter-Sayfa168-169\obj\Debug\DialogPenceresi_Filter_Sayfa168_169.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\DialogPenceresi-Filter-Sayfa168-169\DialogPenceresi-Filter-Sayfa168-169\obj\Debug\DialogPenceresi-Filter-Sayfa168-169.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\DialogPenceresi-Filter-Sayfa168-169\DialogPenceresi-Filter-Sayfa168-169\obj\Debug\DialogPenceresi-Filter-Sayfa168-169.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\DialogPenceresi-Filter-Sayfa168-169\DialogPenceresi-Filter-Sayfa168-169\bin\Debug\DialogPenceresi-Filter-Sayfa168-169.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\DialogPenceresi-Filter-Sayfa168-169\DialogPenceresi-Filter-Sayfa168-169\bin\Debug\DialogPenceresi-Filter-Sayfa168-169.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\DialogPenceresi-Filter-Sayfa168-169\DialogPenceresi-Filter-Sayfa168-169\bin\Debug\DialogPenceresi-Filter-Sayfa168-169.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\DialogPenceresi-Filter-Sayfa168-169\DialogPenceresi-Filter-Sayfa168-169\obj\Debug\DialogPenceresi-Filter-Sayfa168-169.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\DialogPenceresi-Filter-Sayfa168-169\DialogPenceresi-Filter-Sayfa168-169\obj\Debug\DialogPenceresi-Filter-Sayfa168-169.pdb

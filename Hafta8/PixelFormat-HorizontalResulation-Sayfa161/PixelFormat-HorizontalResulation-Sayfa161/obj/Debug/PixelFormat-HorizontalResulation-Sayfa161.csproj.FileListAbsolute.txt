@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\PixelFormat-HorizontalResulation-Sayfa161\PixelFormat-HorizontalResulation-Sayfa161\bin\Debug\PixelFormat-HorizontalResulation-Sayfa161.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\PixelFormat-HorizontalResulation-Sayfa161\PixelFormat-HorizontalResulation-Sayfa161\bin\Debug\PixelFormat-HorizontalResulation-Sayfa161.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\PixelFormat-HorizontalResulation-Sayfa161\PixelFormat-HorizontalResulation-Sayfa161\bin\Debug\PixelFormat-HorizontalResulation-Sayfa161.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\PixelFormat-HorizontalResulation-Sayfa161\PixelFormat-HorizontalResulation-Sayfa161\obj\Debug\PixelFormat-HorizontalResulation-Sayfa161.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\PixelFormat-HorizontalResulation-Sayfa161\PixelFormat-HorizontalResulation-Sayfa161\obj\Debug\PixelFormat_HorizontalResulation_Sayfa161.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\PixelFormat-HorizontalResulation-Sayfa161\PixelFormat-HorizontalResulation-Sayfa161\obj\Debug\PixelFormat_HorizontalResulation_Sayfa161.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\PixelFormat-HorizontalResulation-Sayfa161\PixelFormat-HorizontalResulation-Sayfa161\obj\Debug\PixelFormat-HorizontalResulation-Sayfa161.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\PixelFormat-HorizontalResulation-Sayfa161\PixelFormat-HorizontalResulation-Sayfa161\obj\Debug\PixelFormat-HorizontalResulation-Sayfa161.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\PixelFormat-HorizontalResulation-Sayfa161\PixelFormat-HorizontalResulation-Sayfa161\obj\Debug\PixelFormat-HorizontalResulation-Sayfa161.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\PixelFormat-HorizontalResulation-Sayfa161\PixelFormat-HorizontalResulation-Sayfa161\obj\Debug\PixelFormat-HorizontalResulation-Sayfa161.pdb

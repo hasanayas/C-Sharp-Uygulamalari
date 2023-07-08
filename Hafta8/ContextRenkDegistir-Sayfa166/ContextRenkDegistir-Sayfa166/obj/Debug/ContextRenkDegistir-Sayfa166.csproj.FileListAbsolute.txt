@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\ContextRenkDegistir-Sayfa166\ContextRenkDegistir-Sayfa166\bin\Debug\ContextRenkDegistir-Sayfa166.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\ContextRenkDegistir-Sayfa166\ContextRenkDegistir-Sayfa166\bin\Debug\ContextRenkDegistir-Sayfa166.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\ContextRenkDegistir-Sayfa166\ContextRenkDegistir-Sayfa166\bin\Debug\ContextRenkDegistir-Sayfa166.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\ContextRenkDegistir-Sayfa166\ContextRenkDegistir-Sayfa166\obj\Debug\ContextRenkDegistir-Sayfa166.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\ContextRenkDegistir-Sayfa166\ContextRenkDegistir-Sayfa166\obj\Debug\ContextRenkDegistir_Sayfa166.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\ContextRenkDegistir-Sayfa166\ContextRenkDegistir-Sayfa166\obj\Debug\ContextRenkDegistir_Sayfa166.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\ContextRenkDegistir-Sayfa166\ContextRenkDegistir-Sayfa166\obj\Debug\ContextRenkDegistir-Sayfa166.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\ContextRenkDegistir-Sayfa166\ContextRenkDegistir-Sayfa166\obj\Debug\ContextRenkDegistir-Sayfa166.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\ContextRenkDegistir-Sayfa166\ContextRenkDegistir-Sayfa166\obj\Debug\ContextRenkDegistir-Sayfa166.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta10\ContextRenkDegistir-Sayfa166\ContextRenkDegistir-Sayfa166\obj\Debug\ContextRenkDegistir-Sayfa166.pdb
