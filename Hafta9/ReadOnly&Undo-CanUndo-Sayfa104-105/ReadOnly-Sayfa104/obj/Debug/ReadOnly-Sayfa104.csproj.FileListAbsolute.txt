@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ReadOnly-Sayfa104\ReadOnly-Sayfa104\bin\Debug\ReadOnly-Sayfa104.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ReadOnly-Sayfa104\ReadOnly-Sayfa104\bin\Debug\ReadOnly-Sayfa104.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ReadOnly-Sayfa104\ReadOnly-Sayfa104\bin\Debug\ReadOnly-Sayfa104.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ReadOnly-Sayfa104\ReadOnly-Sayfa104\obj\Debug\ReadOnly-Sayfa104.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ReadOnly-Sayfa104\ReadOnly-Sayfa104\obj\Debug\ReadOnly_Sayfa104.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ReadOnly-Sayfa104\ReadOnly-Sayfa104\obj\Debug\ReadOnly_Sayfa104.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ReadOnly-Sayfa104\ReadOnly-Sayfa104\obj\Debug\ReadOnly-Sayfa104.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ReadOnly-Sayfa104\ReadOnly-Sayfa104\obj\Debug\ReadOnly-Sayfa104.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ReadOnly-Sayfa104\ReadOnly-Sayfa104\obj\Debug\ReadOnly-Sayfa104.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ReadOnly-Sayfa104\ReadOnly-Sayfa104\obj\Debug\ReadOnly-Sayfa104.pdb

@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\PathSinifi-Sayfa224\PathSinifi-Sayfa224\bin\Debug\PathSinifi-Sayfa224.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\PathSinifi-Sayfa224\PathSinifi-Sayfa224\bin\Debug\PathSinifi-Sayfa224.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\PathSinifi-Sayfa224\PathSinifi-Sayfa224\bin\Debug\PathSinifi-Sayfa224.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\PathSinifi-Sayfa224\PathSinifi-Sayfa224\obj\Debug\PathSinifi-Sayfa224.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\PathSinifi-Sayfa224\PathSinifi-Sayfa224\obj\Debug\PathSinifi_Sayfa224.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\PathSinifi-Sayfa224\PathSinifi-Sayfa224\obj\Debug\PathSinifi_Sayfa224.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\PathSinifi-Sayfa224\PathSinifi-Sayfa224\obj\Debug\PathSinifi-Sayfa224.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\PathSinifi-Sayfa224\PathSinifi-Sayfa224\obj\Debug\PathSinifi-Sayfa224.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\PathSinifi-Sayfa224\PathSinifi-Sayfa224\obj\Debug\PathSinifi-Sayfa224.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\PathSinifi-Sayfa224\PathSinifi-Sayfa224\obj\Debug\PathSinifi-Sayfa224.pdb

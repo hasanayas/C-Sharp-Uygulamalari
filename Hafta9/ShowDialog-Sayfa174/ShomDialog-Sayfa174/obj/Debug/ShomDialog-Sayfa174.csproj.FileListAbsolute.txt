@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\source\repos\ShomDialog-Sayfa174\ShomDialog-Sayfa174\bin\Debug\ShomDialog-Sayfa174.exe.config
+C:\Users\NORA JDK\source\repos\ShomDialog-Sayfa174\ShomDialog-Sayfa174\bin\Debug\ShomDialog-Sayfa174.exe
+C:\Users\NORA JDK\source\repos\ShomDialog-Sayfa174\ShomDialog-Sayfa174\bin\Debug\ShomDialog-Sayfa174.pdb
+C:\Users\NORA JDK\source\repos\ShomDialog-Sayfa174\ShomDialog-Sayfa174\obj\Debug\ShomDialog-Sayfa174.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\source\repos\ShomDialog-Sayfa174\ShomDialog-Sayfa174\obj\Debug\ShomDialog_Sayfa174.Form1.resources
+C:\Users\NORA JDK\source\repos\ShomDialog-Sayfa174\ShomDialog-Sayfa174\obj\Debug\ShomDialog_Sayfa174.Properties.Resources.resources
+C:\Users\NORA JDK\source\repos\ShomDialog-Sayfa174\ShomDialog-Sayfa174\obj\Debug\ShomDialog-Sayfa174.csproj.GenerateResource.cache
+C:\Users\NORA JDK\source\repos\ShomDialog-Sayfa174\ShomDialog-Sayfa174\obj\Debug\ShomDialog-Sayfa174.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\source\repos\ShomDialog-Sayfa174\ShomDialog-Sayfa174\obj\Debug\ShomDialog-Sayfa174.exe
+C:\Users\NORA JDK\source\repos\ShomDialog-Sayfa174\ShomDialog-Sayfa174\obj\Debug\ShomDialog-Sayfa174.pdb

@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\RadioButtonHareket-Sayfa68\RadioButtonHareket-Sayfa68\bin\Debug\RadioButtonHareket-Sayfa68.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\RadioButtonHareket-Sayfa68\RadioButtonHareket-Sayfa68\bin\Debug\RadioButtonHareket-Sayfa68.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\RadioButtonHareket-Sayfa68\RadioButtonHareket-Sayfa68\bin\Debug\RadioButtonHareket-Sayfa68.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\RadioButtonHareket-Sayfa68\RadioButtonHareket-Sayfa68\obj\Debug\RadioButtonHareket-Sayfa68.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\RadioButtonHareket-Sayfa68\RadioButtonHareket-Sayfa68\obj\Debug\RadioButtonHareket_Sayfa68.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\RadioButtonHareket-Sayfa68\RadioButtonHareket-Sayfa68\obj\Debug\RadioButtonHareket_Sayfa68.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\RadioButtonHareket-Sayfa68\RadioButtonHareket-Sayfa68\obj\Debug\RadioButtonHareket-Sayfa68.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\RadioButtonHareket-Sayfa68\RadioButtonHareket-Sayfa68\obj\Debug\RadioButtonHareket-Sayfa68.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\RadioButtonHareket-Sayfa68\RadioButtonHareket-Sayfa68\obj\Debug\RadioButtonHareket-Sayfa68.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\RadioButtonHareket-Sayfa68\RadioButtonHareket-Sayfa68\obj\Debug\RadioButtonHareket-Sayfa68.pdb
