@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\SinusDalgasiGrafigi-Sayfa233\SinusDalgasiGrafigi-Sayfa233\bin\Debug\SinusDalgasiGrafigi-Sayfa233.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\SinusDalgasiGrafigi-Sayfa233\SinusDalgasiGrafigi-Sayfa233\bin\Debug\SinusDalgasiGrafigi-Sayfa233.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\SinusDalgasiGrafigi-Sayfa233\SinusDalgasiGrafigi-Sayfa233\bin\Debug\SinusDalgasiGrafigi-Sayfa233.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\SinusDalgasiGrafigi-Sayfa233\SinusDalgasiGrafigi-Sayfa233\obj\Debug\SinusDalgasiGrafigi-Sayfa233.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\SinusDalgasiGrafigi-Sayfa233\SinusDalgasiGrafigi-Sayfa233\obj\Debug\SinusDalgasiGrafigi_Sayfa233.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\SinusDalgasiGrafigi-Sayfa233\SinusDalgasiGrafigi-Sayfa233\obj\Debug\SinusDalgasiGrafigi_Sayfa233.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\SinusDalgasiGrafigi-Sayfa233\SinusDalgasiGrafigi-Sayfa233\obj\Debug\SinusDalgasiGrafigi-Sayfa233.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\SinusDalgasiGrafigi-Sayfa233\SinusDalgasiGrafigi-Sayfa233\obj\Debug\SinusDalgasiGrafigi-Sayfa233.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\SinusDalgasiGrafigi-Sayfa233\SinusDalgasiGrafigi-Sayfa233\obj\Debug\SinusDalgasiGrafigi-Sayfa233.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\SinusDalgasiGrafigi-Sayfa233\SinusDalgasiGrafigi-Sayfa233\obj\Debug\SinusDalgasiGrafigi-Sayfa233.pdb

@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\PanelRenkKontrolu-Sayfa74-75\PanelRenkKontrolu-Sayfa74-75\bin\Debug\PanelRenkKontrolu-Sayfa74-75.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\PanelRenkKontrolu-Sayfa74-75\PanelRenkKontrolu-Sayfa74-75\bin\Debug\PanelRenkKontrolu-Sayfa74-75.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\PanelRenkKontrolu-Sayfa74-75\PanelRenkKontrolu-Sayfa74-75\bin\Debug\PanelRenkKontrolu-Sayfa74-75.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\PanelRenkKontrolu-Sayfa74-75\PanelRenkKontrolu-Sayfa74-75\obj\Debug\PanelRenkKontrolu-Sayfa74-75.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\PanelRenkKontrolu-Sayfa74-75\PanelRenkKontrolu-Sayfa74-75\obj\Debug\PanelRenkKontrolu_Sayfa74_75.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\PanelRenkKontrolu-Sayfa74-75\PanelRenkKontrolu-Sayfa74-75\obj\Debug\PanelRenkKontrolu_Sayfa74_75.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\PanelRenkKontrolu-Sayfa74-75\PanelRenkKontrolu-Sayfa74-75\obj\Debug\PanelRenkKontrolu-Sayfa74-75.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\PanelRenkKontrolu-Sayfa74-75\PanelRenkKontrolu-Sayfa74-75\obj\Debug\PanelRenkKontrolu-Sayfa74-75.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\PanelRenkKontrolu-Sayfa74-75\PanelRenkKontrolu-Sayfa74-75\obj\Debug\PanelRenkKontrolu-Sayfa74-75.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\PanelRenkKontrolu-Sayfa74-75\PanelRenkKontrolu-Sayfa74-75\obj\Debug\PanelRenkKontrolu-Sayfa74-75.pdb
