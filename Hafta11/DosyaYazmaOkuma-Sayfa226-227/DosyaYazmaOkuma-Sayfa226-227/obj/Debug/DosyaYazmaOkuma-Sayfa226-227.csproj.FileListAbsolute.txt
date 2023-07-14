@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyaYazmaOkuma-Sayfa226-227\DosyaYazmaOkuma-Sayfa226-227\bin\Debug\DosyaYazmaOkuma-Sayfa226-227.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyaYazmaOkuma-Sayfa226-227\DosyaYazmaOkuma-Sayfa226-227\bin\Debug\DosyaYazmaOkuma-Sayfa226-227.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyaYazmaOkuma-Sayfa226-227\DosyaYazmaOkuma-Sayfa226-227\bin\Debug\DosyaYazmaOkuma-Sayfa226-227.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyaYazmaOkuma-Sayfa226-227\DosyaYazmaOkuma-Sayfa226-227\obj\Debug\DosyaYazmaOkuma-Sayfa226-227.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyaYazmaOkuma-Sayfa226-227\DosyaYazmaOkuma-Sayfa226-227\obj\Debug\DosyaYazmaOkuma_Sayfa226_227.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyaYazmaOkuma-Sayfa226-227\DosyaYazmaOkuma-Sayfa226-227\obj\Debug\DosyaYazmaOkuma_Sayfa226_227.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyaYazmaOkuma-Sayfa226-227\DosyaYazmaOkuma-Sayfa226-227\obj\Debug\DosyaYazmaOkuma-Sayfa226-227.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyaYazmaOkuma-Sayfa226-227\DosyaYazmaOkuma-Sayfa226-227\obj\Debug\DosyaYazmaOkuma-Sayfa226-227.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyaYazmaOkuma-Sayfa226-227\DosyaYazmaOkuma-Sayfa226-227\obj\Debug\DosyaYazmaOkuma-Sayfa226-227.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyaYazmaOkuma-Sayfa226-227\DosyaYazmaOkuma-Sayfa226-227\obj\Debug\DosyaYazmaOkuma-Sayfa226-227.pdb

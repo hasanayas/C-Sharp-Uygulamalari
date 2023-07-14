@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ErrorProvider-Sayfa218\ErrorProvider-Sayfa218\bin\Debug\ErrorProvider-Sayfa218.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ErrorProvider-Sayfa218\ErrorProvider-Sayfa218\bin\Debug\ErrorProvider-Sayfa218.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ErrorProvider-Sayfa218\ErrorProvider-Sayfa218\bin\Debug\ErrorProvider-Sayfa218.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ErrorProvider-Sayfa218\ErrorProvider-Sayfa218\obj\Debug\ErrorProvider-Sayfa218.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ErrorProvider-Sayfa218\ErrorProvider-Sayfa218\obj\Debug\ErrorProvider_Sayfa218.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ErrorProvider-Sayfa218\ErrorProvider-Sayfa218\obj\Debug\ErrorProvider_Sayfa218.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ErrorProvider-Sayfa218\ErrorProvider-Sayfa218\obj\Debug\ErrorProvider-Sayfa218.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ErrorProvider-Sayfa218\ErrorProvider-Sayfa218\obj\Debug\ErrorProvider-Sayfa218.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ErrorProvider-Sayfa218\ErrorProvider-Sayfa218\obj\Debug\ErrorProvider-Sayfa218.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\ErrorProvider-Sayfa218\ErrorProvider-Sayfa218\obj\Debug\ErrorProvider-Sayfa218.pdb

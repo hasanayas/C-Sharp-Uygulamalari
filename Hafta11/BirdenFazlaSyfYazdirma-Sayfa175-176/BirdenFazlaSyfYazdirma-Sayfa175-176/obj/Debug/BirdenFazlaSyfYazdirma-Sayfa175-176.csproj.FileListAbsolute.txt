@@ -1,0 +1,17 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\bin\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\bin\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\bin\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma_Sayfa175_176.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma_Sayfa175_176.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.pdb
+E:\GorselHasan\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.csproj.AssemblyReference.cache
+E:\GorselHasan\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaYazdirma.Sayfa175..Form1.resources
+E:\GorselHasan\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma_Sayfa175_176.Properties.Resources.resources
+E:\GorselHasan\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.csproj.GenerateResource.cache
+E:\GorselHasan\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.csproj.CoreCompileInputs.cache
+E:\GorselHasan\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.exe
+E:\GorselHasan\Hafta11\BirdenFazlaSyfYazdirma-Sayfa175-176\BirdenFazlaSyfYazdirma-Sayfa175-176\obj\Debug\BirdenFazlaSyfYazdirma-Sayfa175-176.pdb

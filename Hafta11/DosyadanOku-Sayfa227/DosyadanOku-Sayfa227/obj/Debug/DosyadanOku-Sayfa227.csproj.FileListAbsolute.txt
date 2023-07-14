@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyadanOku-Sayfa227\DosyadanOku-Sayfa227\obj\Debug\DosyadanOku-Sayfa227.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyadanOku-Sayfa227\DosyadanOku-Sayfa227\obj\Debug\DosyadanOku_Sayfa227.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyadanOku-Sayfa227\DosyadanOku-Sayfa227\obj\Debug\DosyadanOku_Sayfa227.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyadanOku-Sayfa227\DosyadanOku-Sayfa227\obj\Debug\DosyadanOku-Sayfa227.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyadanOku-Sayfa227\DosyadanOku-Sayfa227\obj\Debug\DosyadanOku-Sayfa227.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyadanOku-Sayfa227\DosyadanOku-Sayfa227\bin\Debug\DosyadanOku-Sayfa227.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyadanOku-Sayfa227\DosyadanOku-Sayfa227\bin\Debug\DosyadanOku-Sayfa227.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyadanOku-Sayfa227\DosyadanOku-Sayfa227\bin\Debug\DosyadanOku-Sayfa227.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyadanOku-Sayfa227\DosyadanOku-Sayfa227\obj\Debug\DosyadanOku-Sayfa227.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\DosyadanOku-Sayfa227\DosyadanOku-Sayfa227\obj\Debug\DosyadanOku-Sayfa227.pdb
