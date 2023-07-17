@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\statusStrip-Sayfa210-211\statusStrip-Sayfa210-211\bin\Debug\statusStrip-Sayfa210-211.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\statusStrip-Sayfa210-211\statusStrip-Sayfa210-211\bin\Debug\statusStrip-Sayfa210-211.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\statusStrip-Sayfa210-211\statusStrip-Sayfa210-211\bin\Debug\statusStrip-Sayfa210-211.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\statusStrip-Sayfa210-211\statusStrip-Sayfa210-211\obj\Debug\statusStrip-Sayfa210-211.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\statusStrip-Sayfa210-211\statusStrip-Sayfa210-211\obj\Debug\statusStrip_Sayfa210_211.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\statusStrip-Sayfa210-211\statusStrip-Sayfa210-211\obj\Debug\statusStrip_Sayfa210_211.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\statusStrip-Sayfa210-211\statusStrip-Sayfa210-211\obj\Debug\statusStrip-Sayfa210-211.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\statusStrip-Sayfa210-211\statusStrip-Sayfa210-211\obj\Debug\statusStrip-Sayfa210-211.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\statusStrip-Sayfa210-211\statusStrip-Sayfa210-211\obj\Debug\statusStrip-Sayfa210-211.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\statusStrip-Sayfa210-211\statusStrip-Sayfa210-211\obj\Debug\statusStrip-Sayfa210-211.pdb

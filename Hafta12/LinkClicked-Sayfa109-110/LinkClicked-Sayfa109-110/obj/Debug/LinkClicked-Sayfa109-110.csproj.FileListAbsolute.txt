@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\LinkClicked-Sayfa109-110\LinkClicked-Sayfa109-110\bin\Debug\LinkClicked-Sayfa109-110.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\LinkClicked-Sayfa109-110\LinkClicked-Sayfa109-110\bin\Debug\LinkClicked-Sayfa109-110.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\LinkClicked-Sayfa109-110\LinkClicked-Sayfa109-110\bin\Debug\LinkClicked-Sayfa109-110.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\LinkClicked-Sayfa109-110\LinkClicked-Sayfa109-110\obj\Debug\LinkClicked-Sayfa109-110.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\LinkClicked-Sayfa109-110\LinkClicked-Sayfa109-110\obj\Debug\LinkClicked_Sayfa109_110.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\LinkClicked-Sayfa109-110\LinkClicked-Sayfa109-110\obj\Debug\LinkClicked_Sayfa109_110.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\LinkClicked-Sayfa109-110\LinkClicked-Sayfa109-110\obj\Debug\LinkClicked-Sayfa109-110.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\LinkClicked-Sayfa109-110\LinkClicked-Sayfa109-110\obj\Debug\LinkClicked-Sayfa109-110.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\LinkClicked-Sayfa109-110\LinkClicked-Sayfa109-110\obj\Debug\LinkClicked-Sayfa109-110.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11\LinkClicked-Sayfa109-110\LinkClicked-Sayfa109-110\obj\Debug\LinkClicked-Sayfa109-110.pdb
