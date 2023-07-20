@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\kareOlustur-Sayfa75\kareOlustur-Sayfa75\bin\Debug\kareOlustur-Sayfa75.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\kareOlustur-Sayfa75\kareOlustur-Sayfa75\bin\Debug\kareOlustur-Sayfa75.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\kareOlustur-Sayfa75\kareOlustur-Sayfa75\bin\Debug\kareOlustur-Sayfa75.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\kareOlustur-Sayfa75\kareOlustur-Sayfa75\obj\Debug\kareOlustur-Sayfa75.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\kareOlustur-Sayfa75\kareOlustur-Sayfa75\obj\Debug\kareOlustur_Sayfa75.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\kareOlustur-Sayfa75\kareOlustur-Sayfa75\obj\Debug\kareOlustur_Sayfa75.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\kareOlustur-Sayfa75\kareOlustur-Sayfa75\obj\Debug\kareOlustur-Sayfa75.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\kareOlustur-Sayfa75\kareOlustur-Sayfa75\obj\Debug\kareOlustur-Sayfa75.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\kareOlustur-Sayfa75\kareOlustur-Sayfa75\obj\Debug\kareOlustur-Sayfa75.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\kareOlustur-Sayfa75\kareOlustur-Sayfa75\obj\Debug\kareOlustur-Sayfa75.pdb

@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\Koordinat-Sayfa65-66\Koordinat-Sayfa65-66\bin\Debug\Koordinat-Sayfa65-66.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\Koordinat-Sayfa65-66\Koordinat-Sayfa65-66\bin\Debug\Koordinat-Sayfa65-66.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\Koordinat-Sayfa65-66\Koordinat-Sayfa65-66\bin\Debug\Koordinat-Sayfa65-66.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\Koordinat-Sayfa65-66\Koordinat-Sayfa65-66\obj\Debug\Koordinat-Sayfa65-66.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\Koordinat-Sayfa65-66\Koordinat-Sayfa65-66\obj\Debug\Koordinat_Sayfa65_66.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\Koordinat-Sayfa65-66\Koordinat-Sayfa65-66\obj\Debug\Koordinat_Sayfa65_66.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\Koordinat-Sayfa65-66\Koordinat-Sayfa65-66\obj\Debug\Koordinat-Sayfa65-66.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\Koordinat-Sayfa65-66\Koordinat-Sayfa65-66\obj\Debug\Koordinat-Sayfa65-66.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\Koordinat-Sayfa65-66\Koordinat-Sayfa65-66\obj\Debug\Koordinat-Sayfa65-66.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\Koordinat-Sayfa65-66\Koordinat-Sayfa65-66\obj\Debug\Koordinat-Sayfa65-66.pdb

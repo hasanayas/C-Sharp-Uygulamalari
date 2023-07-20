@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildFormlar-Sayfa99", "ChildFormlar-Sayfa99\ChildFormlar-Sayfa99.csproj", "{2582C93B-E76F-4E32-BB34-A1A238311516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2582C93B-E76F-4E32-BB34-A1A238311516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2582C93B-E76F-4E32-BB34-A1A238311516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2582C93B-E76F-4E32-BB34-A1A238311516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2582C93B-E76F-4E32-BB34-A1A238311516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69CDD004-807E-470E-8166-41B5C702EDCB}
+	EndGlobalSection
+EndGlobal

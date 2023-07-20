@@ -1,0 +1,10 @@
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\HataYakalama2-Sayfa50\HataYakalama2-Sayfa50\bin\Debug\HataYakalama2-Sayfa50.exe.config
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\HataYakalama2-Sayfa50\HataYakalama2-Sayfa50\bin\Debug\HataYakalama2-Sayfa50.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\HataYakalama2-Sayfa50\HataYakalama2-Sayfa50\bin\Debug\HataYakalama2-Sayfa50.pdb
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\HataYakalama2-Sayfa50\HataYakalama2-Sayfa50\obj\Debug\HataYakalama2-Sayfa50.csproj.AssemblyReference.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\HataYakalama2-Sayfa50\HataYakalama2-Sayfa50\obj\Debug\HataYakalama2_Sayfa50.Form1.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\HataYakalama2-Sayfa50\HataYakalama2-Sayfa50\obj\Debug\HataYakalama2_Sayfa50.Properties.Resources.resources
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\HataYakalama2-Sayfa50\HataYakalama2-Sayfa50\obj\Debug\HataYakalama2-Sayfa50.csproj.GenerateResource.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\HataYakalama2-Sayfa50\HataYakalama2-Sayfa50\obj\Debug\HataYakalama2-Sayfa50.csproj.CoreCompileInputs.cache
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\HataYakalama2-Sayfa50\HataYakalama2-Sayfa50\obj\Debug\HataYakalama2-Sayfa50.exe
+C:\Users\NORA JDK\Desktop\Görsel Kodları\Hafta11-Part2\HataYakalama2-Sayfa50\HataYakalama2-Sayfa50\obj\Debug\HataYakalama2-Sayfa50.pdb
