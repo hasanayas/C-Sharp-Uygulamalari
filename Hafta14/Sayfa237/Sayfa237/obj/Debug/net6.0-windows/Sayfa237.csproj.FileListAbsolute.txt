@@ -1,0 +1,17 @@
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\bin\Debug\net6.0-windows\Sayfa237.exe
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\bin\Debug\net6.0-windows\Sayfa237.deps.json
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\bin\Debug\net6.0-windows\Sayfa237.runtimeconfig.json
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\bin\Debug\net6.0-windows\Sayfa237.dll
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\bin\Debug\net6.0-windows\Sayfa237.pdb
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\obj\Debug\net6.0-windows\Sayfa237.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\obj\Debug\net6.0-windows\Sayfa237.Form1.resources
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\obj\Debug\net6.0-windows\Sayfa237.csproj.GenerateResource.cache
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\obj\Debug\net6.0-windows\Sayfa237.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\obj\Debug\net6.0-windows\Sayfa237.AssemblyInfoInputs.cache
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\obj\Debug\net6.0-windows\Sayfa237.AssemblyInfo.cs
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\obj\Debug\net6.0-windows\Sayfa237.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\obj\Debug\net6.0-windows\Sayfa237.dll
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\obj\Debug\net6.0-windows\refint\Sayfa237.dll
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\obj\Debug\net6.0-windows\Sayfa237.pdb
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\obj\Debug\net6.0-windows\Sayfa237.genruntimeconfig.cache
+C:\Users\Serkan\Desktop\Sayfa237\Sayfa237\obj\Debug\net6.0-windows\ref\Sayfa237.dll

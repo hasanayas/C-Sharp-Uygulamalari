@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sayfa236-237/1.0.0": {
+        "runtime": {
+          "Sayfa236-237.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sayfa236-237/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
